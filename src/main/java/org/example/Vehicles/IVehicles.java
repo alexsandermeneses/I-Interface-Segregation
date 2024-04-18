@@ -1,2 +1,5 @@
-package org.example.Vehicles;public interface IVehicles {
+package org.example.Vehicles;
+
+public interface IVehicles {
+    public void startVehicle();
 }
